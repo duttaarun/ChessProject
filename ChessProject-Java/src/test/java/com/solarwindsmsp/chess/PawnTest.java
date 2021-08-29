@@ -70,8 +70,7 @@ public class PawnTest {
 	
 	/**
 	 * TCs added for White pawn
-	 */
-	
+	 */	
 	@Test
 	public void testPawn_Move_IllegalCoordinates_Right_DoesNotMove_White() {
 		chessBoard.addPiece(testSubjectWhite, 1, 4, PieceColor.WHITE);

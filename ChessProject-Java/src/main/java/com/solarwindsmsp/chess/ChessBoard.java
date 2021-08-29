@@ -2,6 +2,7 @@ package com.solarwindsmsp.chess;
 
 public class ChessBoard {
 
+	//Changed the max board width and height to absolute value of 8 (0-7)
 	public static int MAX_BOARD_WIDTH = 8;
 	public static int MAX_BOARD_HEIGHT = 8;
 
